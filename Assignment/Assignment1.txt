@@ -1,0 +1,22 @@
+Web Technology
+Assignment 1
+
+Name: Binisha Neupane                         Date:2025/12/19
+Roll no: 07                                   Program: BIT 'A'
+
+Chapter 1: An Overview of the Internet and the Web
+
+Group A: Short Questions
+1.Define the term "Protocol" in the context of the internet.
+=>In the context of the internet, the term "protocol" is a set of rules and procedures
+  outlining how connected devices communicate over the internet to exchange easily
+  and safely.
+
+2. What is the primary difference between Web Browser and a Search Engine?
+=>The primary difference between Web Browser and Search Engine is:
+  Web browser is an application used to access and view web pages stored on web 
+  servers.And search engine is a software system that allows users to find the
+  information on the internet.
+
+3.Define the World Wide Web (WWW).
+=>
