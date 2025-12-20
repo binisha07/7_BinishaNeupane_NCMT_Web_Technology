@@ -126,7 +126,7 @@ internal network without exposing it to everyone on the internet.So, the corpora
 should implement an extranet. This is the best choice because an extranet allows a company 
 to securely share internal information with authorized external suppliers while maintaining
 a firewall to keep data hidden from the general public.It provides the necessary balance
-between the total privacy of an intranet and the total openness of the inetrnet.
+between the total privacy of an intranet and the total openness of the internet.
 
 
 
